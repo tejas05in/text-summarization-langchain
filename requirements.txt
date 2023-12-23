@@ -1,0 +1,6 @@
+langchain
+notebook
+python-dotenv
+openai
+tiktoken
+PyPDF2
